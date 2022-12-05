@@ -10,6 +10,5 @@ python:
   version: "3.9"
   install:
     - method: pip
-      path: sphinx_test1
     - requirements: docs/requirements.txt
 
